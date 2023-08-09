@@ -1,4 +1,5 @@
 # class-based-view
+# django-redux-registration
 
 this project django-class-based view 
 including **UpdateView,CreateView,DeleteView,ListView,Detail_view** 
